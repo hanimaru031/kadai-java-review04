@@ -1,4 +1,4 @@
-package jp.co.animal;
+package animal;
 
 public class Animal {
 

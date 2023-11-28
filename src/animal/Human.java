@@ -1,4 +1,4 @@
-package jp.co.animal;
+package animal;
 
 public class Human extends Animal implements Thinkable {
     private String hobby;
