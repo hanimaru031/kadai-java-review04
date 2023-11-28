@@ -13,6 +13,7 @@ public class Human extends Animal implements Thinkable {
 
     }
 
+    @Override
     public void think() {
         System.out.println("私は" + hobby + "について考えています。");
     }
